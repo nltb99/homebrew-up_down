@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Updown < Formula
+class UpDown < Formula
   desc "Cross-platform Text Expander written in Rust"
   homepage "https://github.com/nltb99/up_down"
   url "https://github.com/nltb99/up_down/releases/download/v0.1.0/up_down.tar.gz"
