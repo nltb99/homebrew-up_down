@@ -3,8 +3,8 @@
 class UpDown < Formula
   desc "Console game implemented in C++ using ncurses as an application programming interface"
   homepage "https://github.com/nltb99/up_down"
-  url "https://github.com/nltb99/up_down/releases/download/v0.2.0/up_down.tar.gz"
-  sha256 "dece1239cd6ef89ad0a8c00740c5ddf3c1b88a9f31d9cc48978cf0ad2b0cfc82"
+  url "https://github.com/nltb99/up_down/releases/download/v0.3.0/up_down.tar.gz"
+  sha256 "3840e998bb4012629600a50d4db7cc9a1ce7ea3c9fde927712eec3968199f03c"
   version "0.2.0"
 
   def install
